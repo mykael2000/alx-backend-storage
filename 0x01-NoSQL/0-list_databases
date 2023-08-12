@@ -1,0 +1,2 @@
+// Shows every database.
+show dbs;
